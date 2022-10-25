@@ -35,8 +35,8 @@
 }
 
 .img-thumbnail.nav-icons {
-  height: 1rem !important;
-  width: 1rem !important;
+  height: 2rem !important;
+  width: 2rem !important;
   box-shadow: none;
   background-color: transparent;
   border: none;
@@ -110,7 +110,7 @@
   padding-bottom: 1.97vh;
 }
 
-.img-thumbnail {
+.img-thumbnail.category-images {
   height: 70% !important;
   width: 70% !important;
   padding: 0% !important;
@@ -118,7 +118,7 @@
   transition-duration: 1s;
 }
 
-.img-thumbnail:hover {
+.img-thumbnail.category-images:hover {
   height: 78% !important;
   width: 78% !important;
 }
